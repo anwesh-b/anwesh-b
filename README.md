@@ -1,8 +1,8 @@
 # Heyyyy there👋,
 ## I am Anwesh, a passionate Practitioner & Learner!!
 
-![anwesh-b](https://komarev.com/ghpvc/?username=anwesh-b&color=orange)
-    - 🌱 I’m currently learning React Framework<br>
+![anwesh-b](https://komarev.com/ghpvc/?username=anwesh-b&color=orange)<br>
+    - 🌱 I’m currently learning System Designing<br>
     - ⚡ Fun fact: I love travelling and video games
 
 ### Languages and Tools:
