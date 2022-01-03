@@ -37,6 +37,9 @@
     <a href="https://reactjs.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
     </a> 
+    <a href="https://azure.microsoft.com/en-us/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/>
+    </a>
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anwesh-b&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
