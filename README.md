@@ -1,4 +1,4 @@
-<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/a5c59e25-d6da-4da1-980f-ab21efab9ee6" /># Heyyyy there👋,
+# Heyyyy there👋,
 ## I am Anwesh, a passionate Practitioner & Learner!!
 
 ![anwesh-b](https://komarev.com/ghpvc/?username=anwesh-b&color=orange)<br>
@@ -6,7 +6,7 @@
     - ⚡ Fun fact: I love travelling and video games
 
 ### Languages and Tools:
-<p style="display:flex">
+<p style="display: flex;">
     <a href="https://nodejs.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
     </a>  
