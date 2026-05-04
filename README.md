@@ -2,16 +2,16 @@
 ## I am Anwesh, a passionate Practitioner & Learner!!
 
 ![anwesh-b](https://komarev.com/ghpvc/?username=anwesh-b&color=orange)<br>
-    - 🌱 I’m currently learning System Designing<br>
+    - 🌱 I’m currently learning to write better md files<br>
     - ⚡ Fun fact: I love travelling and video games
 
 ### Languages and Tools:
-<p style="display: flex;">
+<div style="display: flex;">
     <a href="https://nodejs.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
     </a>  
     <a href="https://www.typescriptlang.org/" target="_blank"> 
-        <img src="https://commons.wikimedia.org/wiki/File:Typescript_logo_2020.svg" alt="typescript" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="40"/> 
     </a>
     <a href="https://reactjs.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
@@ -55,7 +55,7 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
     </a>
-</p>
+</div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anwesh-b&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 
